@@ -33,5 +33,8 @@ var $plugins =
 {"name":"=======================","status":false,"description":"","parameters":{}},
 {"name":"Rhyme_MapSmoothScrolling","status":false,"description":"this plugin permit to smooth scroll in map","parameters":{"SpeedDivider":"8"}},
 {"name":"=======================","status":false,"description":"","parameters":{}},
-{"name":"QuasiSprite","status":false,"description":"v1.10 Lets you configure Spritesheets\n<QuasiSprite>","parameters":{"File Name Identifier":"#{config}-"}}
+{"name":"QuasiSprite","status":false,"description":"v1.10 Lets you configure Spritesheets\n<QuasiSprite>","parameters":{"File Name Identifier":"#{config}-"}},
+{"name":"=======================","status":false,"description":"","parameters":{}},
+{"name":"SNR_TilesetChangeManager","status":true,"description":"Tileset Change Manager","parameters":{}},
+{"name":"Shaz_TileChanger","status":true,"description":"","parameters":{}}
 ];
