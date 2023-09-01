@@ -29,9 +29,14 @@ null,
 {"id":27,"expanded":true,"name":"冒險者公會內部LV5","order":23,"parentId":23,"scrollX":973,"scrollY":810},
 {"id":28,"expanded":false,"name":"冒險者公會金庫","order":24,"parentId":27,"scrollX":819,"scrollY":453},
 {"id":29,"expanded":true,"name":"商店外觀LV1~5","order":29,"parentId":0,"scrollX":811,"scrollY":467},
-{"id":30,"expanded":true,"name":"商店內部LV2","order":30,"parentId":29,"scrollX":546,"scrollY":302},
+{"id":30,"expanded":true,"name":"商店內部LV2","order":30,"parentId":29,"scrollX":819,"scrollY":453},
 {"id":31,"expanded":true,"name":"商店內部LV3","order":31,"parentId":29,"scrollX":819,"scrollY":453},
 {"id":32,"expanded":true,"name":"商店內部LV4","order":32,"parentId":29,"scrollX":819,"scrollY":453},
 {"id":33,"expanded":false,"name":"商店內部LV5","order":33,"parentId":29,"scrollX":811,"scrollY":507},
-{"id":34,"expanded":true,"name":"鐵匠鋪外部LV1~5","order":34,"parentId":0,"scrollX":811,"scrollY":747}
+{"id":34,"expanded":true,"name":"鐵匠鋪外部LV1~5","order":34,"parentId":0,"scrollX":811,"scrollY":707},
+{"id":35,"expanded":false,"name":"工坊內部LV1","order":35,"parentId":34,"scrollX":819,"scrollY":453},
+{"id":36,"expanded":false,"name":"工坊內部LV2","order":36,"parentId":34,"scrollX":819,"scrollY":453},
+{"id":37,"expanded":false,"name":"工坊內部LV3","order":37,"parentId":34,"scrollX":819,"scrollY":453},
+{"id":38,"expanded":false,"name":"工坊內部LV4","order":38,"parentId":34,"scrollX":819,"scrollY":453},
+{"id":39,"expanded":false,"name":"工坊內部LV5","order":39,"parentId":34,"scrollX":811,"scrollY":593}
 ]
